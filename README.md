@@ -22,6 +22,9 @@ Po wybraniu opcji pojawiać się będą pytania "pomocnicze" odnośnie numerów 
 ^
 | to numer stosu
 
+UWAGA!
+W razie gdyby plik skompresowany nie działał, przesłałem sam kod programu .cs
+
 Po tym za długim wstępie pragnę życzyć Panu/Pani przyjemnych doświadczeń z rozgrywki!
 
 Pozdrawiam,
