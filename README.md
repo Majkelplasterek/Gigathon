@@ -1,6 +1,7 @@
 Dzień dobry!
 
-Jak przeczytałem, projekty C# będą testowane w Visual Studio. Przesłałem zatem cały folder dla tego środowiska.
+Jak przeczytałem, projekty C# będą testowane w Visual Studio. Przesłałem zatem cały folder dla tego środowiska. GitHub nie wyświetli 
+jego plików, ale można ten folder pobrać po kliknięciu "Viev raw".
 By uruchomić program, należy wpierw "odpalić" folder "Gra", potem plik Pasjans.sln, następnie kliknąć zieloną strzałeczke, nie przejmować
 się potencjalnymi komunikatami, że plik pochodzi z internetu :)
 
